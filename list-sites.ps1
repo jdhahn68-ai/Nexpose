@@ -7,7 +7,7 @@
 
 #_3
 # INSIGHTVM API (V3)
-# https://itc9001.amer.int.tenneco.com:3780/api/3/html
+# https://<hostname>:3780/api/3/html
 
 # Create a connection to a Nexpose console server, and build a listing of sites.
 
