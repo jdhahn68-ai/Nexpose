@@ -7,7 +7,7 @@
 
 #_3
 # INSIGHTVM API (V3)
-# https://itc9001.amer.int.tenneco.com:3780/api/3/html#operation/updateIncludedTargets
+# https://<hostname>:3780/api/3/html#operation/updateIncludedTargets
 
 #_4
 # The Nexpose API requires an array of string as input.
